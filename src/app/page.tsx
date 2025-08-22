@@ -224,7 +224,7 @@ const education=(secondValue:number)=>{
 I’m a full-stack web developer passionate about building modern, scalable, and user-friendly applications. I specialize in Next.js, TypeScript, Tailwind CSS, and Node.js, Express.js with hands-on experience in databases like MongoDB.              </p>
               <div className="flex items-end gap-1 mt-4 main-text">
                 <p>
-                  <a href="/resume.pdf">Check out my resume here <span className="text-2xl ">↗</span></a>
+                  <a href="/sanketsresume.pdf">Check out my resume here <span className="text-2xl ">↗</span></a>
                 </p>
               </div>
 
