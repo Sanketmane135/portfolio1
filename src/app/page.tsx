@@ -14,7 +14,7 @@ import postgrey from '../images/postgrey.png';
 import pandas from '../images/pandas.png';
 import numpy from '../images/numpy.png';
 import Link from "next/link";
-import bagpack from '../images/bagpack.png';
+import bagpack from '../images/bagpacktrips2.png';
 import dyp from '../images/dyp.png';
 import sarthi from '../images/sarthi.png';
 import ness from'../images/ness.png';
@@ -221,7 +221,8 @@ const education=(secondValue:number)=>{
               <span className="__className_137a1a "> Maharashtra, India.</span>
               </p>
               <p className="mt-3">
-I’m a full-stack web developer passionate about building modern, scalable, and user-friendly applications. I specialize in Next.js, TypeScript, Tailwind CSS, and Node.js, Express.js with hands-on experience in databases like MongoDB.              </p>
+                I’m a full-stack web developer passionate about building modern, scalable, and user-friendly applications. I specialize in Next.js, TypeScript, Tailwind CSS, and Node.js, Express.js with hands-on experience in databases like MongoDB.              </p>
+              
               <div className="flex items-end gap-1 mt-4 main-text">
                 <p>
                   <a href="/sanketsresume.pdf">Check out my resume here <span className="text-2xl ">↗</span></a>
@@ -229,15 +230,16 @@ I’m a full-stack web developer passionate about building modern, scalable, and
               </div>
 
               <section className="mt-8 flex items-center gap-8">
-                <section className="flex gap-6 items-center">
-                  <a href="https://www.linkedin.com/in/sanket-mane-1986092ab/">
+                <section className="flex gap-2 items-center">
+                  <a className="  p-1" href="https://www.linkedin.com/in/sanket-mane-1986092ab/">
                     <svg fill="#f0f0f0" height="20px" width="20px" version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 310 310"  stroke="#f0f0f0"><g id="SVGRepo_bgCarrier" stroke-width="0"></g><g id="SVGRepo_tracerCarrier" stroke-linecap="round" stroke-linejoin="round"></g><g id="SVGRepo_iconCarrier"> <g id="XMLID_801_"> <path id="XMLID_802_" d="M72.16,99.73H9.927c-2.762,0-5,2.239-5,5v199.928c0,2.762,2.238,5,5,5H72.16c2.762,0,5-2.238,5-5V104.73 C77.16,101.969,74.922,99.73,72.16,99.73z"></path> <path id="XMLID_803_" d="M41.066,0.341C18.422,0.341,0,18.743,0,41.362C0,63.991,18.422,82.4,41.066,82.4 c22.626,0,41.033-18.41,41.033-41.038C82.1,18.743,63.692,0.341,41.066,0.341z"></path> <path id="XMLID_804_" d="M230.454,94.761c-24.995,0-43.472,10.745-54.679,22.954V104.73c0-2.761-2.238-5-5-5h-59.599 c-2.762,0-5,2.239-5,5v199.928c0,2.762,2.238,5,5,5h62.097c2.762,0,5-2.238,5-5v-98.918c0-33.333,9.054-46.319,32.29-46.319 c25.306,0,27.317,20.818,27.317,48.034v97.204c0,2.762,2.238,5,5,5H305c2.762,0,5-2.238,5-5V194.995 C310,145.43,300.549,94.761,230.454,94.761z"></path> </g> </g></svg>
                   </a>
-                  <a href="https://github.com/Sanketmane135">
-                    <svg width="35px" height="35px" viewBox="0 0 16 16" xmlns="http://www.w3.org/2000/svg" fill="none" stroke="#000000"><g id="SVGRepo_bgCarrier" stroke-width="0"></g><g id="SVGRepo_tracerCarrier" stroke-linecap="round" stroke-linejoin="round"></g><g id="SVGRepo_iconCarrier"><path fill="#ffffff" fill-rule="evenodd" d="M8 1C4.133 1 1 4.13 1 7.993c0 3.09 2.006 5.71 4.787 6.635.35.064.478-.152.478-.337 0-.166-.006-.606-.01-1.19-1.947.423-2.357-.937-2.357-.937-.319-.808-.778-1.023-.778-1.023-.635-.434.048-.425.048-.425.703.05 1.073.72 1.073.72.624 1.07 1.638.76 2.037.582.063-.452.244-.76.444-.935-1.554-.176-3.188-.776-3.188-3.456 0-.763.273-1.388.72-1.876-.072-.177-.312-.888.07-1.85 0 0 .586-.189 1.924.716A6.711 6.711 0 018 4.381c.595.003 1.194.08 1.753.236 1.336-.905 1.923-.717 1.923-.717.382.963.142 1.674.07 1.85.448.49.72 1.114.72 1.877 0 2.686-1.638 3.278-3.197 3.45.251.216.475.643.475 1.296 0 .934-.009 1.688-.009 1.918 0 .187.127.404.482.336A6.996 6.996 0 0015 7.993 6.997 6.997 0 008 1z" clip-rule="evenodd"></path></g></svg>
+                  <a className=" pt-2 mt-1 p-1" href="https://github.com/Sanketmane135">
+                    <svg width="30px" height="30px" viewBox="0 0 16 16" xmlns="http://www.w3.org/2000/svg" fill="none" stroke="#000000"><g id="SVGRepo_bgCarrier" stroke-width="0"></g><g id="SVGRepo_tracerCarrier" stroke-linecap="round" stroke-linejoin="round"></g><g id="SVGRepo_iconCarrier"><path fill="#ffffff" fill-rule="evenodd" d="M8 1C4.133 1 1 4.13 1 7.993c0 3.09 2.006 5.71 4.787 6.635.35.064.478-.152.478-.337 0-.166-.006-.606-.01-1.19-1.947.423-2.357-.937-2.357-.937-.319-.808-.778-1.023-.778-1.023-.635-.434.048-.425.048-.425.703.05 1.073.72 1.073.72.624 1.07 1.638.76 2.037.582.063-.452.244-.76.444-.935-1.554-.176-3.188-.776-3.188-3.456 0-.763.273-1.388.72-1.876-.072-.177-.312-.888.07-1.85 0 0 .586-.189 1.924.716A6.711 6.711 0 018 4.381c.595.003 1.194.08 1.753.236 1.336-.905 1.923-.717 1.923-.717.382.963.142 1.674.07 1.85.448.49.72 1.114.72 1.877 0 2.686-1.638 3.278-3.197 3.45.251.216.475.643.475 1.296 0 .934-.009 1.688-.009 1.918 0 .187.127.404.482.336A6.996 6.996 0 0015 7.993 6.997 6.997 0 008 1z" clip-rule="evenodd"></path></g></svg>
                   </a>
                 </section>
-              </section>
+              </section> 
+
             </div>
           </section>
 
@@ -277,90 +279,110 @@ I’m a full-stack web developer passionate about building modern, scalable, and
             </div>
             <section className="grid grid-cols-1 gap-4 sm:grid-cols-2">
 
-              <div className="rounded-lg border bg-card text-card-foreground shadow-sm flex flex-col  items-center  ">
-
-                <div className="flex flex-col space-y-1.5 p-6">
-                  <a className="h-40 w-full object-cover object-top rounded-md">
-                    <Image src={bagpack} width={300} height={300} alt="project "/>
-                  </a>
-                </div>
-
-                <div className="p-6 pt-2 flex flex-col gap-2">
-                  <div className="text-2xl font-semibold leading-none tracking-tight">
-                    Bag-Pack Trip Booking Web
-                  </div>
-                  This is used to book and plan trips where you can book trip from build in packages and also provide custom trip booking facility
-                </div>
-
-                <div className="p-6 pt-0 flex h-full flex-col items-start justify-between gap-4">
-                  <div className="mt-2 flex flex-wrap gap-1">
-                    <div className=" cursor-default inline-flex items-center rounded-full border font-semibold transition-colors focus:outline-none focus:ring-2 focus:ring-ring focus:ring-offset-2 border-transparent bg-stone-700  text-secondary-foreground hover:bg-secondary/80 px-1 py-0 text-[10px]">
-                    Next.js
-                    </div>
-                    <div className=" cursor-default inline-flex items-center rounded-full border font-semibold transition-colors focus:outline-none focus:ring-2 focus:ring-ring focus:ring-offset-2 border-transparent bg-stone-700 text-secondary-foreground hover:bg-secondary/80 px-1 py-0 text-[10px]">
-                    css
-                    </div>
-                    <div className=" cursor-default  inline-flex items-center rounded-full border font-semibold transition-colors focus:outline-none focus:ring-2 focus:ring-ring focus:ring-offset-2 border-transparent bg-stone-700 text-secondary-foreground hover:bg-secondary/80 px-1 py-0 text-[10px]">
-                    MongoDB
-                    </div>
-                  </div>
-                  <div className="flex flex-row flex-wrap items-start gap-1">
-                    <a>
-                      <div className="items-center rounded-full text-gray-950 border font-semibold transition-colors focus:outline-none focus:ring-2 focus:ring-ring focus:ring-offset-2 border-transparent bg-slate-100 cursor-pointer text-primary-foreground hover:bg-primary/80 flex gap-2 px-2 py-1 text-[10px]">
-                      <svg xmlns="http://www.w3.org/2000/svg" height="20px" viewBox="0 -960 960 960" width="20px" fill="#999999"><path d="M480-96q-79 0-149-30t-122.5-82.5Q156-261 126-331T96-480q0-80 30-149.5t82.5-122Q261-804 331-834t149-30q80 0 149.5 30t122 82.5Q804-699 834-629.5T864-480q0 79-30 149t-82.5 122.5Q699-156 629.5-126T480-96Zm0-75q17-17 34-63.5T540-336H420q9 55 26 101.5t34 63.5Zm-91-10q-14-30-24.5-69T347-336H204q29 57 77 97.5T389-181Zm182 0q60-17 108-57.5t77-97.5H613q-7 47-17.5 86T571-181ZM177-408h161q-2-19-2.5-37.5T335-482q0-18 .5-35.5T338-552H177q-5 19-7 36.5t-2 35.5q0 18 2 35.5t7 36.5Zm234 0h138q2-20 2.5-37.5t.5-34.5q0-17-.5-35t-2.5-37H411q-2 19-2.5 37t-.5 35q0 17 .5 35t2.5 37Zm211 0h161q5-19 7-36.5t2-35.5q0-18-2-36t-7-36H622q2 19 2.5 37.5t.5 36.5q0 18-.5 35.5T622-408Zm-9-216h143q-29-57-77-97.5T571-779q14 30 24.5 69t17.5 86Zm-193 0h120q-9-55-26-101.5T480-789q-17 17-34 63.5T420-624Zm-216 0h143q7-47 17.5-86t24.5-69q-60 17-108 57.5T204-624Z"/></svg>
-                        Website
-                      </div>
-                    </a>
-
-                    <a>
-                      <div className="items-center rounded-full text-gray-950 border font-semibold transition-colors focus:outline-none focus:ring-2 focus:ring-ring focus:ring-offset-2 border-transparent bg-slate-100 cursor-pointer text-primary-foreground hover:bg-primary/80 flex gap-2 px-2 py-1 text-[10px]">
-                      <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" className="lucide lucide-github size-3"><path d="M15 22v-4a4.8 4.8 0 0 0-1-3.5c3 0 6-2 6-5.5.08-1.25-.27-2.48-1-3.5.28-1.15.28-2.35 0-3.5 0 0-1 0-3 1.5-2.64-.5-5.36-.5-8 0C6 2 5 2 5 2c-.3 1.15-.3 2.35 0 3.5A5.403 5.403 0 0 0 4 9c0 3.5 3 5.5 6 5.5-.39.49-.68 1.05-.85 1.65-.17.6-.22 1.23-.15 1.85v4"></path><path d="M9 18c-4.51 2-5-2-7-2"></path></svg>
-                        Github
-                      </div>
-                    </a>
-                  </div>
-                </div>
-              </div>
-              <div className="rounded-lg border bg-card text-card-foreground shadow-sm flex flex-col items-center">
-
-                <div className="flex flex-col space-y-1.5 p-6">
-                  <a className="h-40 w-full object-cover object-top rounded-md">
-                    <Image src={seoimg} width={300} height={300} alt="project "/>
-                  </a>
-                </div>
-
-                <div className="p-6 pt-4 flex flex-col gap-2">
-                  <div className="text-2xl font-semibold leading-none tracking-tight">
-                   AI driven SEO Assistant
-                  </div>
-                  This is an AI driven SEO assistant which helps you to write SEO friendly content and also provides you with the keywords and other suggestions to improve your content.
-                </div>
-
-                <div className="p-6 pt-0 flex h-full flex-col items-start justify-between gap-4">
-                  <div className="mt-2 flex flex-wrap gap-1">
-                    <div className=" cursor-default inline-flex items-center rounded-full border font-semibold transition-colors focus:outline-none focus:ring-2 focus:ring-ring focus:ring-offset-2 border-transparent bg-stone-700  text-secondary-foreground hover:bg-secondary/80 px-1 py-0 text-[10px]">
-                    Next.js
-                    </div>
-                    <div className=" cursor-default inline-flex items-center rounded-full border font-semibold transition-colors focus:outline-none focus:ring-2 focus:ring-ring focus:ring-offset-2 border-transparent bg-stone-700 text-secondary-foreground hover:bg-secondary/80 px-1 py-0 text-[10px]">
-                    Tailwind CSS
-                    </div>
-                    <div className=" cursor-default  inline-flex items-center rounded-full border font-semibold transition-colors focus:outline-none focus:ring-2 focus:ring-ring focus:ring-offset-2 border-transparent bg-stone-700 text-secondary-foreground hover:bg-secondary/80 px-1 py-0 text-[10px]">
-                    MongoDB
-                    </div>
-                      <div className=" cursor-default  inline-flex items-center rounded-full border font-semibold transition-colors focus:outline-none focus:ring-2 focus:ring-ring focus:ring-offset-2 border-transparent bg-stone-700 text-secondary-foreground hover:bg-secondary/80 px-1 py-0 text-[10px]">
-                    Typescript
-                    </div>
-                  </div>
-                  <div className="flex flex-row flex-wrap items-start gap-1">
-                    <a>
-                      <div className="items-center rounded-full text-gray-950 border font-semibold transition-colors focus:outline-none focus:ring-2 focus:ring-ring focus:ring-offset-2 border-transparent bg-slate-100 cursor-pointer text-primary-foreground hover:bg-primary/80 flex gap-2 px-2 py-1 text-[10px]">
-                      <svg xmlns="http://www.w3.org/2000/svg" height="20px" viewBox="0 -960 960 960" width="20px" fill="#999999"><path d="M480-96q-79 0-149-30t-122.5-82.5Q156-261 126-331T96-480q0-80 30-149.5t82.5-122Q261-804 331-834t149-30q80 0 149.5 30t122 82.5Q804-699 834-629.5T864-480q0 79-30 149t-82.5 122.5Q699-156 629.5-126T480-96Zm0-75q17-17 34-63.5T540-336H420q9 55 26 101.5t34 63.5Zm-91-10q-14-30-24.5-69T347-336H204q29 57 77 97.5T389-181Zm182 0q60-17 108-57.5t77-97.5H613q-7 47-17.5 86T571-181ZM177-408h161q-2-19-2.5-37.5T335-482q0-18 .5-35.5T338-552H177q-5 19-7 36.5t-2 35.5q0 18 2 35.5t7 36.5Zm234 0h138q2-20 2.5-37.5t.5-34.5q0-17-.5-35t-2.5-37H411q-2 19-2.5 37t-.5 35q0 17 .5 35t2.5 37Zm211 0h161q5-19 7-36.5t2-35.5q0-18-2-36t-7-36H622q2 19 2.5 37.5t.5 36.5q0 18-.5 35.5T622-408Zm-9-216h143q-29-57-77-97.5T571-779q14 30 24.5 69t17.5 86Zm-193 0h120q-9-55-26-101.5T480-789q-17 17-34 63.5T420-624Zm-216 0h143q7-47 17.5-86t24.5-69q-60 17-108 57.5T204-624Z"/></svg>
-                        Website
-                      </div>
-                    </a>
-                  </div>
-                </div>
-              </div>
+              <div className="rounded-lg border border-gray-600  bg-card text-card-foreground shadow-sm flex flex-col  items-center  ">
+                         
+                                         <div className="flex flex-col space-y-1.5 p-6">
+                                           <a className=" w-full object-cover object-top rounded-md">
+                                             <Image src={bagpack} width={300} height={300} alt="project "/>
+                                           </a>
+                                         </div>
+              
+                                         
+                                         <div className="p-6 pt-2 flex flex-col gap-2">
+                                           <div className="text-2xl font-semibold leading-none tracking-tight">
+                                             Bag-Pack Trip Booking Web App
+                                           </div>
+                                           This is used to book and plan trips where you can book trip from build in packages and also provide custom trip booking facility
+                                         </div>
+                         
+                                         <div className=" w-full p-6 pt-0 flex h-full flex-col items-start justify-between ">
+                                            <h2>Tech Stack :</h2>
+                                           <div className=" flex flex-wrap items-center gap-1">
+                                             <div className=" cursor-not-allowed inline-flex items-center rounded border font-semibold transition-colors focus:outline-none focus:ring-2 focus:ring-ring focus:ring-offset-2 border-transparent bg-stone-700  text-secondary-foreground hover:bg-secondary/80 px-1 py-0 text-[15px]">
+                                             Next.js
+                                             </div>
+                                             <div className=" cursor-default inline-flex items-center rounded border font-semibold transition-colors focus:outline-none focus:ring-2 focus:ring-ring focus:ring-offset-2 border-transparent bg-stone-700 text-secondary-foreground hover:bg-secondary/80 px-1 py-0 text-[15px]">
+                                             Tailwind CSS
+                                             </div>
+                                             <div className=" cursor-default  inline-flex items-center rounded border font-semibold transition-colors focus:outline-none focus:ring-2 focus:ring-ring focus:ring-offset-2 border-transparent bg-stone-700 text-secondary-foreground hover:bg-secondary/80 px-1 py-0 text-[15px]">
+                                             MongoDB
+                                             </div>
+                                             <div className=" cursor-default  inline-flex items-center rounded border font-semibold transition-colors focus:outline-none focus:ring-2 focus:ring-ring focus:ring-offset-2 border-transparent bg-stone-700 text-secondary-foreground hover:bg-secondary/80 px-1 py-0 text-[15px]">
+                                             Express.js
+                                             </div>
+                                             
+                                           </div>
+              
+                                           <div className="flex flex-row flex-wrap items-center gap-1">
+                                             <a>
+                                               <div className="items-center rounded-full text-gray-950 border font-semibold transition-colors focus:outline-none focus:ring-2 focus:ring-ring focus:ring-offset-2 border-transparent bg-slate-100 cursor-pointer text-primary-foreground hover:bg-primary/80 flex gap-2 px-2 py-1 text-[10px]">
+                                               <svg xmlns="http://www.w3.org/2000/svg" height="15px" viewBox="0 -960 960 960" width="20px" fill="#999999"><path d="M480-96q-79 0-149-30t-122.5-82.5Q156-261 126-331T96-480q0-80 30-149.5t82.5-122Q261-804 331-834t149-30q80 0 149.5 30t122 82.5Q804-699 834-629.5T864-480q0 79-30 149t-82.5 122.5Q699-156 629.5-126T480-96Zm0-75q17-17 34-63.5T540-336H420q9 55 26 101.5t34 63.5Zm-91-10q-14-30-24.5-69T347-336H204q29 57 77 97.5T389-181Zm182 0q60-17 108-57.5t77-97.5H613q-7 47-17.5 86T571-181ZM177-408h161q-2-19-2.5-37.5T335-482q0-18 .5-35.5T338-552H177q-5 19-7 36.5t-2 35.5q0 18 2 35.5t7 36.5Zm234 0h138q2-20 2.5-37.5t.5-34.5q0-17-.5-35t-2.5-37H411q-2 19-2.5 37t-.5 35q0 17 .5 35t2.5 37Zm211 0h161q5-19 7-36.5t2-35.5q0-18-2-36t-7-36H622q2 19 2.5 37.5t.5 36.5q0 18-.5 35.5T622-408Zm-9-216h143q-29-57-77-97.5T571-779q14 30 24.5 69t17.5 86Zm-193 0h120q-9-55-26-101.5T480-789q-17 17-34 63.5T420-624Zm-216 0h143q7-47 17.5-86t24.5-69q-60 17-108 57.5T204-624Z"/></svg>
+                                                 Website
+                                               </div>
+                                             </a>
+                         
+                                             <a>
+                                               <div className="items-center rounded-full text-gray-950 border font-semibold transition-colors focus:outline-none focus:ring-2 focus:ring-ring focus:ring-offset-2 border-transparent bg-slate-100 cursor-pointer text-primary-foreground hover:bg-primary/80 flex gap-2 px-2 py-1 text-[10px]">
+                                               <svg xmlns="http://www.w3.org/2000/svg" width="25px" height="25px" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" className="lucide lucide-github size-3"><path d="M15 22v-4a4.8 4.8 0 0 0-1-3.5c3 0 6-2 6-5.5.08-1.25-.27-2.48-1-3.5.28-1.15.28-2.35 0-3.5 0 0-1 0-3 1.5-2.64-.5-5.36-.5-8 0C6 2 5 2 5 2c-.3 1.15-.3 2.35 0 3.5A5.403 5.403 0 0 0 4 9c0 3.5 3 5.5 6 5.5-.39.49-.68 1.05-.85 1.65-.17.6-.22 1.23-.15 1.85v4"></path><path d="M9 18c-4.51 2-5-2-7-2"></path></svg>
+                                                 Github
+                                               </div>
+                                             </a>
+                                           </div>
+                                         </div>
+                                       </div>
+              
+                                       {/* project 2 */}
+              
+                                       <div className="rounded-lg border border-gray-600 bg-card text-card-foreground shadow-sm flex flex-col items-center">
+                         
+                                         <div className="flex flex-col space-y-1.5 p-6">
+                                           <a className=" w-full object-cover object-top rounded-md">
+                                             <Image src={seoimg} width={300} height={300} alt="project "/>
+                                           </a>
+                                         </div>
+                         
+                                         <div className="p-6 pt-4 flex flex-col gap-2">
+                                           <div className="text-2xl font-semibold leading-none tracking-tight">
+                                            AI powered SEO Assistant
+                                           </div>
+                                           This is an AI driven SEO assistant which helps you to write SEO friendly content and also provides you with the keywords and other suggestions to improve your content.
+                                         </div>
+                         
+                                         <div className=" w-full p-6 pt-0 flex h-full flex-col items-start justify-between gap-2 ">
+                                            <h2>Tech Stack :</h2>
+                                           <div className=" flex flex-wrap items-center gap-1">
+                                             <div className=" cursor-not-allowed inline-flex items-center rounded border font-semibold transition-colors focus:outline-none focus:ring-2 focus:ring-ring focus:ring-offset-2 border-transparent bg-stone-700  text-secondary-foreground hover:bg-secondary/80 px-1 py-0 text-[15px]">
+                                             Next.js
+                                             </div>
+                                             <div className=" cursor-default inline-flex items-center rounded border font-semibold transition-colors focus:outline-none focus:ring-2 focus:ring-ring focus:ring-offset-2 border-transparent bg-stone-700 text-secondary-foreground hover:bg-secondary/80 px-1 py-0 text-[15px]">
+                                             Tailwind CSS
+                                             </div>
+                                             <div className=" cursor-default  inline-flex items-center rounded border font-semibold transition-colors focus:outline-none focus:ring-2 focus:ring-ring focus:ring-offset-2 border-transparent bg-stone-700 text-secondary-foreground hover:bg-secondary/80 px-1 py-0 text-[15px]">
+                                             MongoDB
+                                             </div>
+                                             <div className=" cursor-default  inline-flex items-center rounded border font-semibold transition-colors focus:outline-none focus:ring-2 focus:ring-ring focus:ring-offset-2 border-transparent bg-stone-700 text-secondary-foreground hover:bg-secondary/80 px-1 py-0 text-[15px]">
+                                             Express.js
+                                             </div>
+                                             
+                                           </div>
+              
+                                           <div className="flex flex-row flex-wrap items-center gap-1">
+                                             <a>
+                                               <div className="items-center rounded-full text-gray-950 border font-semibold transition-colors focus:outline-none focus:ring-2 focus:ring-ring focus:ring-offset-2 border-transparent bg-slate-100 cursor-pointer text-primary-foreground hover:bg-primary/80 flex gap-2 px-2 py-1 text-[10px]">
+                                               <svg xmlns="http://www.w3.org/2000/svg" height="20px" viewBox="0 -960 960 960" width="20px" fill="#999999"><path d="M480-96q-79 0-149-30t-122.5-82.5Q156-261 126-331T96-480q0-80 30-149.5t82.5-122Q261-804 331-834t149-30q80 0 149.5 30t122 82.5Q804-699 834-629.5T864-480q0 79-30 149t-82.5 122.5Q699-156 629.5-126T480-96Zm0-75q17-17 34-63.5T540-336H420q9 55 26 101.5t34 63.5Zm-91-10q-14-30-24.5-69T347-336H204q29 57 77 97.5T389-181Zm182 0q60-17 108-57.5t77-97.5H613q-7 47-17.5 86T571-181ZM177-408h161q-2-19-2.5-37.5T335-482q0-18 .5-35.5T338-552H177q-5 19-7 36.5t-2 35.5q0 18 2 35.5t7 36.5Zm234 0h138q2-20 2.5-37.5t.5-34.5q0-17-.5-35t-2.5-37H411q-2 19-2.5 37t-.5 35q0 17 .5 35t2.5 37Zm211 0h161q5-19 7-36.5t2-35.5q0-18-2-36t-7-36H622q2 19 2.5 37.5t.5 36.5q0 18-.5 35.5T622-408Zm-9-216h143q-29-57-77-97.5T571-779q14 30 24.5 69t17.5 86Zm-193 0h120q-9-55-26-101.5T480-789q-17 17-34 63.5T420-624Zm-216 0h143q7-47 17.5-86t24.5-69q-60 17-108 57.5T204-624Z"/></svg>
+                                                 Website
+                                               </div>
+                                             </a>
+                         
+                                             <a>
+                                               <div className="items-center rounded-full text-gray-950 border font-semibold transition-colors focus:outline-none focus:ring-2 focus:ring-ring focus:ring-offset-2 border-transparent bg-slate-100 cursor-pointer text-primary-foreground hover:bg-primary/80 flex gap-2 px-2 py-1 text-[10px]">
+                                               <svg xmlns="http://www.w3.org/2000/svg" width="25px" height="25px" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" className="lucide lucide-github size-3"><path d="M15 22v-4a4.8 4.8 0 0 0-1-3.5c3 0 6-2 6-5.5.08-1.25-.27-2.48-1-3.5.28-1.15.28-2.35 0-3.5 0 0-1 0-3 1.5-2.64-.5-5.36-.5-8 0C6 2 5 2 5 2c-.3 1.15-.3 2.35 0 3.5A5.403 5.403 0 0 0 4 9c0 3.5 3 5.5 6 5.5-.39.49-.68 1.05-.85 1.65-.17.6-.22 1.23-.15 1.85v4"></path><path d="M9 18c-4.51 2-5-2-7-2"></path></svg>
+                                                 Github
+                                               </div>
+                                             </a>
+                                           </div>
+                                         </div>
+                                       </div>
               
              
             </section>
