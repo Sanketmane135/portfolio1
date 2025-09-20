@@ -22,7 +22,7 @@ import vs from '../images/vs2.png'
 import git from '../images/git.png'
 import alpha from '../images/alphiity.jpg'
 import seoimg from '../images/seoimg.png';
-import stego from '../images/stegano.png'
+import stego from '../images/stegno2.png'
 
 export default function Home() {
 
@@ -337,19 +337,19 @@ const education=(secondValue:number)=>{
                                    <div className="rounded-lg border border-gray-600  bg-card text-card-foreground shadow-sm flex flex-col items-center gap-0">
                          
                                          <div className="flex flex-col space-y-1.5 p-6">
-                                           <a className="h-40 w-full object-cover object-top rounded-md md:-mb-4">
+                                           <a className="h-40 w-full object-cover object-top rounded-md ">
                                              <Image src={stego} width={400} height={600} alt="project "/>
                                            </a>
                                          </div>
                          
-                                         <div className="p-6 pt-4 flex flex-col gap-2 md:-mb-4">
+                                         <div className="p-6 pt-4 flex flex-col gap-2 md:mt-10">
                                            <div className="text-2xl font-semibold leading-none tracking-tight">
                                             Advanced steganography for image encoding and decoding
                                            </div>
                                            Hide secret messages within images using cutting-edge cryptographic techniques.
                                          </div>
                          
-                                         <div className=" w-full p-6 pt-0 flex h-full flex-col items-start justify-between gap-2 md:gap-0 ">
+                                         <div className=" w-full p-6 pt-0 flex h-full flex-col items-start justify-between gap-2 md:mt-10 ">
                                             <h2>Tech Stack :</h2>
                                            <div className=" flex flex-wrap items-center gap-1">
                                              <div className=" cursor-not-allowed inline-flex items-center rounded border font-semibold transition-colors focus:outline-none focus:ring-2 focus:ring-ring focus:ring-offset-2 border-transparent bg-stone-700  text-secondary-foreground hover:bg-secondary/80 px-1 py-0 text-[15px]">
